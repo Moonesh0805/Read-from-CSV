@@ -9,9 +9,9 @@ Import panda module as pd
 ### Step 2:
 Read the csv file
 ### Step 3:
-Print the first 10rows
+Print the first 10 rows
 ### Step 4:
-Print the next 5rows
+Print the next 5 rows
 ### Step 5:
 Print the toal no.of rows and columns with argument 0 for row and argument 1 for column.
 ## PROGRAM:
